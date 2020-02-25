@@ -1,2 +1,2 @@
 # FreddyDjembi.github.io
-Website
+website
